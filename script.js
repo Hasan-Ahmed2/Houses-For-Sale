@@ -23,3 +23,4 @@ $('button').click(function() {
     $(".location").append("<img src=" + houses[index] + ">");
 });
 });
+//comment//
